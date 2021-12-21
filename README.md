@@ -1,16 +1,13 @@
 ### Hi there 👋 
+  Я - Артур. Мне 23. Я живу в Москве и занимаюсь frontend-разработкой.
+  Мой стек
+  - HTML5
+  - CSS3 
+  - Figma
+  - SASS (SCSS)
+  - JS
+  - React
+  - Typrscript
+ 
 
 <!--
-**ARTURIRK/ARTURIRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
