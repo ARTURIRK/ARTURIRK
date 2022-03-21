@@ -8,6 +8,7 @@
   - SASS (SCSS)
   - JS
   - React
+  - Redux
   - Typrscript
  
 
