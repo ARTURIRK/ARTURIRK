@@ -4,7 +4,7 @@
   Мой стек:
   - React
   - Redux
-  - Typrscript
+  - TypeScript
  
 
 <!--
